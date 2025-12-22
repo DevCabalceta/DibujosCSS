@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.radius{
+    margin: 80px;
+    width: 250px;
+    height: 250px;
+    background-color: steelblue;
+    border-radius: 53% 47% 48% 52% / 71% 70% 30% 29% ;
+}
